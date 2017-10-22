@@ -139,8 +139,6 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
-
-*/.idea/
-.idea/
-.gradle/
 gradle/wrapper/
+gateway/gradle/wrapper/
+products/gradle/wrapper/
