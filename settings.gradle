@@ -1,0 +1,5 @@
+rootProject.name = 'PresenciaShop'
+
+include 'gateway'
+include 'registry'
+include 'products'
