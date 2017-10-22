@@ -1,0 +1,53 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "idparent",
+            "fieldType": "Instant"
+        },
+        {
+            "fieldName": "idshopdefault",
+            "fieldType": "Instant"
+        },
+        {
+            "fieldName": "leveldepth",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldName": "nleft",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldName": "nright",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldName": "active",
+            "fieldType": "Boolean"
+        },
+        {
+            "fieldName": "dateadd",
+            "fieldType": "LocalDate"
+        },
+        {
+            "fieldName": "dateupd",
+            "fieldType": "LocalDate"
+        },
+        {
+            "fieldName": "position",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldName": "isrootcategory",
+            "fieldType": "Boolean"
+        }
+    ],
+    "changelogDate": "20171022122604",
+    "entityTableName": "category",
+    "dto": "no",
+    "pagination": "no",
+    "service": "no",
+    "jpaMetamodelFiltering": false,
+    "microserviceName": "Products"
+}

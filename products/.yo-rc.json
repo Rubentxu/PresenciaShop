@@ -1,0 +1,44 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "presencia.digital",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "4.10.0",
+    "baseName": "Products",
+    "packageName": "presencia.digital",
+    "packageFolder": "presencia/digital",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "hibernateCache": "no",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSocialSignIn": false,
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "2811dcbfc55d23c11b0e1552b80dc8597bd658a6",
+    "enableTranslation": true,
+    "applicationType": "microservice",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "es",
+      "ca",
+      "en",
+      "fr",
+      "de",
+      "it",
+      "pt-pt"
+    ],
+    "clientPackageManager": "yarn"
+  }
+}
