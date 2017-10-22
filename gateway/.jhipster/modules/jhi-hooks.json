@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Vuejs generator",
+        "npmPackageName": "generator-jhipster-vuejs",
+        "description": "Generate VueJS frontend for generated entities",
+        "hookFor": "entity",
+        "hookType": "post",
+        "generatorCallback": "jhipster-vuejs:entity"
+    }
+]

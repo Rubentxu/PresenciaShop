@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-netflix-spectator:1.3.5.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-spectator/1.3.5.RELEASE/f25170dfc408fca62b73dd940c8921a2d2813cb7/spring-cloud-netflix-spectator-1.3.5.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-spectator/1.3.5.RELEASE/ea80b0504666a3fc1e724429f15607ea78861c7a/spring-cloud-netflix-spectator-1.3.5.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

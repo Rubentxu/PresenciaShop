@@ -1,5 +1,4 @@
 apply plugin: 'org.springframework.boot'
-apply plugin: 'com.moowork.node'
 
 ext {
     logbackLoglevel = "INFO"
@@ -23,18 +22,6 @@ bootRun {
 }
 
 
-task webpack_test(type: YarnTask, dependsOn: 'yarn_install') {
-    args = ["run", "webpack:test"]
-}
-
-task webpack(type: YarnTask, dependsOn: 'yarn_install') {
-    args = ["run", "webpack:prod"]
-}
-
-war {
-    webAppDirName = 'build/www/'
-}
-
 processResources {
     filesMatching('**/logback-spring.xml') {
         filter {
@@ -53,5 +40,3 @@ processResources {
     }
 }
 
-test.dependsOn webpack_test
-processResources.dependsOn webpack

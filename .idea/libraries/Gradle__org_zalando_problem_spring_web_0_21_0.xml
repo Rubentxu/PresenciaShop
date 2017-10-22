@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.zalando:problem-spring-web:0.21.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.zalando/problem-spring-web/0.21.0/1dd121bf9169d9f5adac541704230082d13f09f1/problem-spring-web-0.21.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.zalando/problem-spring-web/0.21.0/2a4a4bc416cd04f00de490158ba3d6240acb12b6/problem-spring-web-0.21.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
